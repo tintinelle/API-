@@ -1,0 +1,29 @@
+body {
+    background-color: #DFD3EE;
+}
+
+.main {
+    width: 60%;
+    margin: 150px auto;
+    padding: 60px;
+    border-radius: 15px;
+
+    text-align: center;
+
+    color: white;
+    background-color: #006E90;
+}
+
+.main__title {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    
+    color: black;
+    background-color: #FFC107;
+}
+
+.main__display {
+    font-size: 1.3em;
+}
+#9067C6
