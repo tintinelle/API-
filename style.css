@@ -26,4 +26,7 @@ body {
 .main__display {
     font-size: 1.3em;
 }
-#9067C6
+
+.button {
+    margin: 20px; 
+}
